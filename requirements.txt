@@ -20,6 +20,7 @@ idna==2.8                 # via etesync, requests
 itsdangerous==1.1.0       # via flask
 jinja2==2.10.1            # via flask
 markupsafe==1.1.1         # via jinja2
+msgpack==1.0.0            # via etesync-dav (setup.py)
 orderedmultidict==1.0     # via etesync, furl
 packaging==19.0           # via etesync
 passlib==1.7.2            # via radicale
